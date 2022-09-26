@@ -24,13 +24,13 @@ Para rodar o repositório é necessário clonar o mesmo,e executa-lo pela IDE:
 <linha de comando>
 ```
 ## :soon: Implementação futura
-* Novas operações matemáticas
+* Integração com projeto de estudos ByteBank
 
 ## :handshake: Colaboradores
 <table>
   <tr>
     <td align="center">
-      <a href="http://github.com/tatialveso">
+      <a href="http://github.com/PedroOliveira15">
         <img src="https://avatars.githubusercontent.com/u/86692171?v=4" width="100px;" alt="Foto de Pedro Oliveira no GitHub"/><br>
         <sub>
           <b>PedroOliveira15</b>
